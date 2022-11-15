@@ -6,9 +6,14 @@
 
 ### Todos:
 - Create the following 5 service methods in your service layers
-> **AuthorService** : createAuthor and getAllAuthors service methods are needed 
+> **AuthorService** :
+- createAuthor
+- getAllAuthors
 >
-> **BookService** : getAllBooksByAuthorId, createBook, getBookById
+> **BookService** :
+- getAllBooksByAuthorId
+- createBook
+- getBookById
 
 ## To help you with testing in Postman. Below are the expected responses if your service methods work properly:
 
