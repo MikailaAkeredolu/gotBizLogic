@@ -18,7 +18,6 @@
 ## To help you with testing in Postman. Below are the expected responses if your service methods work properly:
 
 - POST: http://localhost:8080/authors
-- Expecting status code of : 201
 - Expected Response: 
 ```
 {
@@ -29,7 +28,6 @@
 
 
 - GET:  http://localhost:8080/authors
-- Expecting status code of : 200
 - Expected Response:
 ```
 [
@@ -45,7 +43,6 @@
 ```
 
 - GET: http://localhost:8080/authors?name=s
-- Expecting status code of : 200
 - Expected Response:
 ```
 [
@@ -64,7 +61,6 @@
 <br />
 
 - POST: http://localhost:8080/authors/3/books
-- Expecting status code of : 201
 - Expected Response: 
 ```
     {
@@ -79,7 +75,6 @@
 ```
 
 - GET: http://localhost:8080/authors/3/books
-- Expecting status code of : 200
 - Expected Response:
 ```
 [
@@ -107,7 +102,6 @@
 <br />
 
 - GET: http://localhost:8080/books/5
-- Expecting status code of : 200
 - Expected Response:
 ```
 {
