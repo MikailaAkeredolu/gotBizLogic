@@ -35,6 +35,24 @@
     }
 ]
 ```
+
+- GET: http://localhost:8080/authors?name=s
+- Expecting status code of : 200
+- Expected Response:
+```
+[
+    {
+        "id": 1,
+        "name": "Ralph Ellison"
+    },
+    {
+        "id": 2,
+        "name": "Jack Daniels"
+    }
+]
+```
+
+
 <br />
 
 - POST: http://localhost:8080/authors/3/books
