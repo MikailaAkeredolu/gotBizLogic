@@ -7,3 +7,13 @@
 > **AuthorService** : createAuthor and getAllAuthors service methods are needed 
 >
 > **BookService** : getAllBooksByAuthorId, createBook, getBookById
+
+## Postman:
+
+- POST: http://localhost:8080/authors
+- Expected Response: 
+```{
+    "id": 3,
+    "name": "Maya Angelo"
+}
+```
