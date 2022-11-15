@@ -28,7 +28,7 @@
 ```
 
 
--GET:  http://localhost:8080/authors
+- GET:  http://localhost:8080/authors
 - Expecting status code of : 200
 - Expected Response:
 ```
@@ -78,7 +78,7 @@
 }
 ```
 
--GET: http://localhost:8080/authors/3/books
+- GET: http://localhost:8080/authors/3/books
 - Expecting status code of : 200
 - Expected Response:
 ```
@@ -106,7 +106,7 @@
 
 <br />
 
--GET: http://localhost:8080/books/5
+- GET: http://localhost:8080/books/5
 - Expecting status code of : 200
 - Expected Response:
 ```
