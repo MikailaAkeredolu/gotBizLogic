@@ -76,3 +76,18 @@
 ]```
 
 
+
+-GET: http://localhost:8080/books/5
+- Expecting status code of : 200
+```
+{
+    "id": 5,
+    "title": "caged birds sing",
+    "isbn": 3456,
+    "author": {
+        "id": 3,
+        "name": "Maya Angelo"
+    }
+}
+```
+
