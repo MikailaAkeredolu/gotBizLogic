@@ -25,7 +25,7 @@
     "name": "Maya Angelo"
 }
 ```
-
+<br />
 
 - GET:  http://localhost:8080/authors
 - Expected Response:
@@ -42,6 +42,8 @@
 ]
 ```
 
+<br />
+
 - GET: http://localhost:8080/authors?name=s
 - Expected Response:
 ```
@@ -56,7 +58,6 @@
     }
 ]
 ```
-
 
 <br />
 
@@ -73,6 +74,8 @@
     }
 }
 ```
+
+<br />
 
 - GET: http://localhost:8080/authors/3/books
 - Expected Response:
