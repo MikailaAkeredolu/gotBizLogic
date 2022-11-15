@@ -14,7 +14,8 @@
 - POST: http://localhost:8080/authors
 - Expecting status code of : 201
 - Expected Response: 
-```{
+```
+{
     "id": 3,
     "name": "Maya Angelo"
 }
@@ -74,7 +75,8 @@
 -GET: http://localhost:8080/authors/3/books
 - Expecting status code of : 200
 - Expected Response:
-```[
+```
+[
     {
         "id": 4,
         "title": "Google it",
