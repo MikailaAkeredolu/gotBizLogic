@@ -16,7 +16,7 @@
 - getBookById
 
 ## To help you with testing in Postman.
-### - Below are the expected responses if your service methods work properly:
+### Below are the expected responses if your service methods work properly:
 
 - POST: http://localhost:8080/authors
 - Expected Response: 
@@ -118,4 +118,4 @@
     }
 }
 ```
-
+ **Do not touch any other file other than the service layer AND properties file** (Important)
