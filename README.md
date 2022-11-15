@@ -15,7 +15,8 @@
 - createBook
 - getBookById
 
-## To help you with testing in Postman. Below are the expected responses if your service methods work properly:
+## To help you with testing in Postman.
+### - Below are the expected responses if your service methods work properly:
 
 - POST: http://localhost:8080/authors
 - Expected Response: 
