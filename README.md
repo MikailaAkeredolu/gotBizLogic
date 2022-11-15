@@ -2,7 +2,7 @@
 - Clone this repo **or** copy the code into yours then **complete the tasks in the service layers**. 
 - https://github.com/MikailaAkeredolu/devLogicNeededForServiceLayer
 - **Do not** use or modify one of your older projects
-- Do not touch any other file other than the service layer (Important)
+- Do not touch any other file other than the service layer AND properties file (Important)
 
 ### Todos:
 - Create the following 5 service methods in your service layers
