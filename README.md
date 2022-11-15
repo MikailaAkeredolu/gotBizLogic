@@ -35,6 +35,7 @@
     }
 ]
 ```
+<br />
 
 - POST: http://localhost:8080/authors/3/books
 - Expecting status code of : 201
@@ -73,12 +74,14 @@
             "name": "Maya Angelo"
         }
     }
-]```
+]
+```
 
-
+<br />
 
 -GET: http://localhost:8080/books/5
 - Expecting status code of : 200
+- Expected Response:
 ```
 {
     "id": 5,
